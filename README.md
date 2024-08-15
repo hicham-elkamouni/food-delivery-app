@@ -19,7 +19,7 @@ JWT_SECRET="segredo123secreto"
 
 ```bash
 
-$ git clone https://github.com/MarcosVini9999/food-delivery-app.git
+$ git clone https://github.com/hicham-elkamouni/food-delivery-app.git
 
 ```
 
